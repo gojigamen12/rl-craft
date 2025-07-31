@@ -1,0 +1,84 @@
+[31Jul2025 21:48:55.383] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, --fml.forgeVersion, 48.1.0, --fml.mcVersion, 1.20.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230921.100330, nogui]
+[31Jul2025 21:48:55.385] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1
+[31Jul2025 21:48:55.387] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.1 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[31Jul2025 21:48:55.458] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/rl-craft/servidor_minecraft/config/fml.toml is not correct. Correcting
+[31Jul2025 21:48:55.459] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[31Jul2025 21:48:55.460] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[31Jul2025 21:48:55.489] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[31Jul2025 21:48:55.541] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/rl-craft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2362!/ Service=ModLauncher Env=SERVER
+[31Jul2025 21:48:55.772] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/rl-craft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.2-48.1.0/fmlcore-1.20.2-48.1.0.jar is missing mods.toml file
+[31Jul2025 21:48:55.781] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/rl-craft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.2-48.1.0/javafmllanguage-1.20.2-48.1.0.jar is missing mods.toml file
+[31Jul2025 21:48:55.782] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/rl-craft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.2-48.1.0/lowcodelanguage-1.20.2-48.1.0.jar is missing mods.toml file
+[31Jul2025 21:48:55.784] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/rl-craft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.2-48.1.0/mclanguage-1.20.2-48.1.0.jar is missing mods.toml file
+[31Jul2025 21:48:55.859] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[31Jul2025 21:48:57.361] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[31Jul2025 21:49:02.556] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 48.1.0, for MC 1.20.2 with MCP 20230921.100330
+[31Jul2025 21:49:02.558] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v48.1.0 Initialized
+[31Jul2025 21:49:04.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[31Jul2025 21:49:04.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 48.1.0 Target: null
+[31Jul2025 21:49:05.262] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[31Jul2025 21:49:05.323] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/rl-craft/servidor_minecraft/libraries/net/minecraft/server/1.20.2-20230921.100330/server-1.20.2-20230921.100330-srg.jar%2397!/assets/.mcassetsroot' uses unexpected schema
+[31Jul2025 21:49:05.323] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/rl-craft/servidor_minecraft/libraries/net/minecraft/server/1.20.2-20230921.100330/server-1.20.2-20230921.100330-srg.jar%2397!/data/.mcassetsroot' uses unexpected schema
+[31Jul2025 21:49:06.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[31Jul2025 21:49:07.105] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[31Jul2025 21:49:07.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.2
+[31Jul2025 21:49:07.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[31Jul2025 21:49:07.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[31Jul2025 21:49:07.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[31Jul2025 21:49:07.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[31Jul2025 21:49:07.744] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[31Jul2025 21:49:07.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[31Jul2025 21:49:07.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[31Jul2025 21:49:07.788] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[31Jul2025 21:49:07.789] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[31Jul2025 21:49:07.808] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[31Jul2025 21:49:07.809] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[31Jul2025 21:49:07.810] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[31Jul2025 21:49:07.810] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[31Jul2025 21:49:07.810] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[31Jul2025 21:49:07.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[31Jul2025 21:49:07.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[31Jul2025 21:49:07.811] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[31Jul2025 21:49:07.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[31Jul2025 21:49:07.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[31Jul2025 21:49:08.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31Jul2025 21:49:10.882] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:10.883] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:10.883] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:10.884] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:10.886] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:10.887] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:11.015] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31Jul2025 21:49:11.515] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[31Jul2025 21:49:11.695] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3680 ms
+[31Jul2025 21:49:11.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.895s)! For help, type "help"
+[31Jul2025 21:49:11.714] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[31Jul2025 21:49:12.247] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
+java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "bufferedimage" is null
+	at net.minecraft.server.MinecraftServer.m_271593_(MinecraftServer.java:779) ~[server-1.20.2-20230921.100330-srg.jar%2397!/:?]
+	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at net.minecraft.server.MinecraftServer.m_272273_(MinecraftServer.java:776) ~[server-1.20.2-20230921.100330-srg.jar%2397!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:635) ~[server-1.20.2-20230921.100330-srg.jar%2397!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:249) ~[server-1.20.2-20230921.100330-srg.jar%2397!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[31Jul2025 21:49:47.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[31Jul2025 21:54:07.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wally_0[/127.100.223.37:38737] logged in with entity id 97 at (3.5, 6.0, 2.5)
+[31Jul2025 21:54:07.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wally_0 joined the game
+[31Jul2025 21:54:36.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: naranjo[/127.62.157.205:45561] logged in with entity id 98 at (9.5, 6.0, -0.5)
+[31Jul2025 21:54:36.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: naranjo joined the game
+[31Jul2025 21:54:50.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlos750yhu[/127.64.132.32:51981] logged in with entity id 99 at (13.5, 6.0, 0.5)
+[31Jul2025 21:54:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu joined the game
+[31Jul2025 21:55:40.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlos750yhu was kicked for floating too long!
+[31Jul2025 21:55:40.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlos750yhu lost connection: Flying is not enabled on this server
+[31Jul2025 21:55:40.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu left the game
+[31Jul2025 21:55:40.669] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jul2025 21:55:47.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlos750yhu[/127.64.132.32:56551] logged in with entity id 100 at (160.04817919516103, -140.23713689048859, -10.3894788713026)
+[31Jul2025 21:55:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu joined the game
+[31Jul2025 21:55:47.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlos750yhu moved too quickly! 0.0,-15.701586929310167,0.0
+[31Jul2025 21:55:49.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu fell out of the world
+[31Jul2025 21:56:42.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu has made the advancement [Isn't It Iron Pick]
+[31Jul2025 21:57:09.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu has made the advancement [Getting an Upgrade]
+[31Jul2025 21:57:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: naranjo has made the advancement [Getting an Upgrade]
+[31Jul2025 21:57:32.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: naranjo has made the advancement [Monster Hunter]
+[31Jul2025 21:57:32.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guardian['Gavin'/123, l='ServerLevel[LuckyMap]', x=37.00, y=7.17, z=-20.57] died: Gavin was slain by naranjo
+[31Jul2025 21:58:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Carlos750yhu has made the advancement [Diamonds!]
